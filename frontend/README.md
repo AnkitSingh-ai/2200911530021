@@ -1,12 +1,11 @@
 # URL Shortener Frontend
 
-A React JavaScript application with Material UI for URL shortening and analytics.
 
 ## Screenshot
 
 ![URL Shortener Application](https://github.com/AnkitSingh-ai/2200911530021/blob/main/frontend/src/assets/url-shortener-screenshot.png)
 
-*The URL Shortener application running on localhost:3000, showing the main interface for creating shortened URLs with backend status indicator.*
+
 
 ## Features
 
