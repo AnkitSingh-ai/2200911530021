@@ -3,7 +3,7 @@
 
 ## Screenshot
 
-![URL Shortener Application](https://github.com/AnkitSingh-ai/2200911530021/blob/main/frontend/src/assets/url-shortener-screenshot.png)
+![URL Shortener Application](https://raw.githubusercontent.com/AnkitSingh-ai/2200911530021/refs/heads/main/frontend/Images/Ui%20image.png)
 
 
 
